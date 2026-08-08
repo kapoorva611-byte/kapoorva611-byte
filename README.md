@@ -97,9 +97,9 @@ Actively solving daily — solutions auto-synced to [leetcode-solutions](https:/
 ## Currently
 
 ```yaml
-learning:    "Trees, Graphs, and system design fundamentals"
-building:    "A RAG-based study assistant"
-open_to:     "SDE internships and entry-level roles"
+learning: "Trees, Graphs, and system design fundamentals"
+building: "A RAG-based study assistant"
+open_to: "SDE internships and entry-level roles"
 ```
 
 <br/>
