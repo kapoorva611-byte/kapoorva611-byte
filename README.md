@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Hi%20there,%20I'm%20Apoorva&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B7FFF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Full-Stack+%2B+AI%2FML+Enthusiast;Building+PrepMate+%E2%80%94+AI+Mock+Interview+Platform" />
+**Computer Science Engineering Student · Full-Stack + AI/ML Enthusiast**
+<br/>
+Building PrepMate — AI Mock Interview Platform
 
 <br/>
 
@@ -20,7 +22,7 @@
 
 I'm a Computer Science undergrad going into my 4th year, currently deep in DSA and placement prep. I like building things end-to-end — most recently **PrepMate**, a full-stack AI mock interview platform I built from near-zero hands-on dev experience in about two weeks, debugging every issue (deployment, auth, DB) myself along the way.
 
-Strong on CS fundamentals (DBMS, OS, Computer Networks), currently strengthening DSA (Arrays/Strings/Sorting done, Trees/Graphs in progress), and exploring AI/ML basics on the side.
+Strong on CS fundamentals (DBMS, OS, Computer Networks), currently strengthening DSA, and exploring AI/ML basics on the side.
 
 **Currently open to:** SDE internships and entry-level software engineering roles.
 
