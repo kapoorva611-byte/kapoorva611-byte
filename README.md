@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Hi%20there,%20I'm%20Apoorva&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B7FFF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Full-Stack+%2B+AI%2FML+Enthusiast;Building+PrepMate+%E2%80%94+AI+Mock+Interview+Platform" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B7FFF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Full-Stack+%2B+AI%2FML+Enthusiast; Building+PrepMate+%E2%80%94+AI+Mock+Interview+Platform" />
 
 <br/>
 
