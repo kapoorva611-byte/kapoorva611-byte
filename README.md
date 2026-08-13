@@ -85,16 +85,7 @@ Actively solving daily — solutions auto-synced to [leetcode-solutions](https:/
 
 <br/>
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kapoorva611-byte&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapoorva611-byte&theme=gruvbox&hide_border=true" width="48%" />
-
-</div>
-
-<br/>
 
 ## Currently
 
