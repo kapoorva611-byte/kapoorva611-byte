@@ -56,8 +56,8 @@ Full-stack platform that runs AI-driven mock interviews, built and deployed solo
 |---|---|
 | **Stack** | React (frontend, Vercel) · Node.js + Express + MongoDB Atlas (backend, Render) · Google Gemini API |
 | **Highlights** | Independently debugged a MongoDB connection string issue caused by a special character in the password, and a JWT secret hardcoding bug |
-| **Repository** | *(https://github.com/kapoorva611-byte/prepmate-frontend)* |
-| **Live Demo** | *(https://prepmate-frontend-brown.vercel.app/login)* |
+| **Repository** | *https://github.com/kapoorva611-byte/prepmate-frontend | https://github.com/kapoorva611-byte/prepmate-backend* |
+| **Live Demo** | *https://prepmate-frontend-brown.vercel.app/login* |
 
 </details>
 
