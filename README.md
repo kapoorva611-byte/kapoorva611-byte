@@ -56,7 +56,7 @@ Full-stack platform that runs AI-driven mock interviews, built and deployed solo
 |---|---|
 | **Stack** | React (frontend, Vercel) · Node.js + Express + MongoDB Atlas (backend, Render) · Google Gemini API |
 | **Highlights** | Independently debugged a MongoDB connection string issue caused by a special character in the password, and a JWT secret hardcoding bug |
-| **Repository** | *https://github.com/kapoorva611-byte/prepmate-frontend | https://github.com/kapoorva611-byte/prepmate-backend* |
+| **Repository** | *https://github.com/kapoorva611-byte/prepmate-frontend https://github.com/kapoorva611-byte/prepmate-backend* |
 | **Live Demo** | *https://prepmate-frontend-brown.vercel.app/login* |
 
 </details>
@@ -70,7 +70,7 @@ ML-based system for mental health signal monitoring.
 | | |
 |---|---|
 | **Stack** | Python · Flask · Machine Learning · SHAP (model interpretability) |
-| **Repository** | *add your repo link here* |
+| **Repository** | *https://github.com/oyezenn/major_project* |
 
 </details>
 
