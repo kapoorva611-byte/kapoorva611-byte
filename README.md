@@ -56,8 +56,8 @@ Full-stack platform that runs AI-driven mock interviews, built and deployed solo
 |---|---|
 | **Stack** | React (frontend, Vercel) · Node.js + Express + MongoDB Atlas (backend, Render) · Google Gemini API |
 | **Highlights** | Independently debugged a MongoDB connection string issue caused by a special character in the password, and a JWT secret hardcoding bug |
-| **Repository** | *add your repo link here* |
-| **Live Demo** | *add your deployed link here* |
+| **Repository** | *(https://github.com/kapoorva611-byte/prepmate-frontend)* |
+| **Live Demo** | *(https://prepmate-frontend-brown.vercel.app/login)* |
 
 </details>
 
@@ -79,7 +79,7 @@ ML-based system for mental health signal monitoring.
 ## Coding Profile
 
 <!-- Replace YOUR_USERNAME with your actual LeetCode handle -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Apoorva_05/)
 
 Actively solving daily — solutions auto-synced to [leetcode-solutions](https://github.com/kapoorva611-byte/leetcode-solutions).
 
